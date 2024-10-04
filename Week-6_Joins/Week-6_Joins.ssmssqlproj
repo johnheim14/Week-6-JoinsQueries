@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Week-6_Joins">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP:DESKTOP\John Heim">
+          <Created>2024-10-04T17:18:08.5892962-05:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>PropertyManager</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <HostNameInServerCertificate />
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Week6_Query1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Week6_Query1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Week6_Query2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Week6_Query2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Week6_Query3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Week6_Query3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Week6_Query4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Week6_Query4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Week6_Query5.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Week6_Query5.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items>
+        <FileNode Name="DiagramScreenshot.png">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DiagramScreenshot.png</FullPath>
+        </FileNode>
+        <FileNode Name="Week6_Queries.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Week6_Queries.txt</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
